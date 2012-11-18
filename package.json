@@ -1,0 +1,16 @@
+{
+  "name": "TBD-API",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "express": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "underscore": "*",
+    "http-errors": "*"
+  }
+}
