@@ -1,9 +1,12 @@
 {
+  "private": true,
   "name": "TBD-API",
   "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app"
+  "description": "API interface for a music discovery service",
+  "url": "https://github.com/egeste/heardit-api",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egeste/heardit-api.git"
   },
   "dependencies": {
     "bcrypt": "*",
